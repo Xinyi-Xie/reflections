@@ -1,0 +1,1 @@
+If you once finished a no-bug version and find bugs when you add some functions. The comparison will be much helpful
